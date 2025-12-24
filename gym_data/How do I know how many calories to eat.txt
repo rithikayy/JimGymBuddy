@@ -1,0 +1,22 @@
+Title: How do I know how many calories to eat
+URL: https://thefitness.wiki/faq/how-do-i-know-how-many-calories-to-eat/
+
+How do I know how many calories to eat?
+This is something that will require a little bit of patience, and trial and error. While there are a ton of calorie / TDEE calculators and formulas out there,
+there can be (mostly minor) variations in metabolic rate
+(and activity level) that will make the numbers they spit out good only as a place to start that you refine over time. You should never expect to get a perfect number from a calculator, or for any number to be the same every day, forever.
+To get the best results, follow this step by step process:
+Use any TDEE calculator you can find on the internet. Seriously, any of them are fine. This is just to get a general place to start – don’t treat it as gospel and don’t worry about selecting the perfect activity level.
+Target +/- 10-20% of this number, depending on your goal of weight gain or loss.
+Start tracking
+everything
+you eat that has calories. Everything.
+Start weighing yourself at roughly the same time every day – preferably in the morning, on an empty stomach and bladder/bowels.
+Make use of the
+nSuns Adaptive TDEE Spreadsheet
+. It will give you an estimate as a starting point, and as you enter your weight and calories consumed each day, it will calibrate and give you a more accurate picture of your TDEE over time.
+If, after a few weeks, your weight is not changing, adjust your calorie target either up (for weight gain) or down (for weight loss), and keep on trucking.
+Repeat!
+For longer, more detailed information on diet, read over the
+Improving Your Diet
+page.

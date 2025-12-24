@@ -1,0 +1,85 @@
+Title: Weight Loss 101
+URL: https://thefitness.wiki/weight-loss-101/
+
+Weight Loss 101
+Table of Contents
+Toggle
+Introduction
+Step By Step Guide
+Additional Reading and Resources
+Read Time:
+5
+minutes
+Introduction
+There is an illusion of complexity to weight loss (perpetuated largely by people who want your money) but it is actually very straightforward. Your body requires a certain amount of energy (measured in calories) each day in order to fuel its activities. This is called your Total Daily Energy Expenditure or TDEE. If your diet supplies more calories than your TDEE (a surplus), you will gain weight. If your diet supplies fewer calories than your TDEE (a deficit), you will lose weight.
+You’ve probably heard of many different diets out there, and when they work, they all achieve weight loss in the same way – manipulating calorie balance. While you can reach a deficit by increasing your TDEE through exercise, it is significantly easier to eat less than to do enough exercise to make a difference. This also means that you can lose weight through diet alone and exercise is not required to lose weight.
+This creates two points of failure to be aware of:
+Overestimating your TDEE.
+This is very easy to do. Just remember, always, that no TDEE calculation is 100% accurate. Treat them as estimates only and don’t get fixated on what a calculator told you if it conflicts with what you’re seeing on the scale. Calculations of calorie burn during exercise, in particular, tends to be
+wildly
+inaccurate and inflated.
+Underestimating your calorie consumption.
+Most commonly this happens when people pay inadequate attention to what they’re eating. This ranges from unconscious snacking to ignoring calorie content in drinks or food additives (dressings are a big culprit) to simply not tracking calorie consumption at all.
+Whichever it is, the most important fact to remember is that
+the scale doesn’t lie
+. In order to maintain or gain weight while eating at a true deficit, it would require your body to break the laws of the universe by creating energy out of thin air. You can read further in our FAQ:
+Why can’t I lose weight?
+It is also important to understand that for all intents and purposes, weight loss and fat loss are interchangeable concepts. If you are losing weight, you are necessarily losing fat as well.
+Step By Step Guide
+Take your “before” measurements.
+These can be any measurements you want, but should at least include weight and photos of front, back, and side (in underwear is ideal).
+Estimate your TDEE.
+Remember to treat this as an estimate only, and keep in mind the adage “No plan survives engagement with the enemy”. Expect to have to adjust this number.
+Set a daily calorie goal.
+The best place to start is by reducing your TDEE by 10-20% (TDEE x 0.9-0.8). You will usually want to avoid going under 20% less than your TDEE. Going too far below your TDEE will the increase likelihood of malnourishment, muscle loss, low energy, inadequate fat intake for hormonal balance, and cycles of restriction followed by binge eating.
+Track your calorie consumption.
+Tools such as
+MyFitnessPal
+or
+NutritionData
+are very useful for tracking calories. We also recommend the
+nSuns Adaptive TDEE Spreadsheet
+, which will adjust its estimate of your TDEE over time. Track
+everything
+you eat and drink, including additives and toppings.
+Take regular progress measurements
+.
+Weight should generally be measured once a day (or at least once a week), preferably unclothed and on an empty stomach. Don’t sweat day-to-day fluctuations – track the trend
+over time
+. Monthly progress photos may be worth considering. Avoid any handheld or scale based body fat percentage measurements – the bio-electrical impedance method is extremely inaccurate and inconsistent.
+Adjust your diet over time.
+As you lose weight, your TDEE will inevitably go down – less mass requires fewer calories to fuel. This means that your starting calorie goal will eventually no longer cause weight loss, and you will need to adjust it down.
+Regularly take maintenance breaks.
+To minimize muscle loss and maximize health, adherence and performance, Renaissance Periodization recommends an absolute maximum of 12 weeks in a weight loss phase at no more than 0.8% of bodyweight lost per week, and then spending an equivalent amount of time in a maintenance phase. Read more detail in the RP article –
+The Value of Post-Diet Maintenance
+.
+Expect to be hungry.
+You may not be used to feeling hungry often, or even at all, but when you start eating less food than your body is used to and wants, hunger is something you need to expect and be willing to deal with. It’s possible you’ll be able to reduce or eliminate feelings of hunger through changes in
+what
+you’re eating, but it’s just as possible that you won’t. Hunger is normal when eating at a calorie deficit, and you can’t let it trip you up. To read some thoughts from experienced members of the community, have a look at our Community Campfire thread –
+Managing Hunger While Losing Weight
+.
+Additional Reading and Resources
+Below are some additional resources that can help you with your weight loss.
+Improving Your Diet
+General Diet Improvement
+Macros
+r/Fitness Community Campfire – Eating Less Sugar and Junk Food
+r/Fitness Community Campfire – Meal Planning on a Budget
+r/Fitness Recipes Megathreads
+FAQs
+:
+Why can’t I lose weight?
+Why am I not losing body fat?
+I want to look like [actor/celebrity/picture], how should I diet and work out?
+How can I get a six pack / flat stomach / toned abs?
+What exercises can I do to lose fat in my [body part]?
+How do I get more toned / How do I tone my [bodypart]?
+Should I lift weights if I am trying to lose weight?
+What is more important for weight loss – calories or macros?
+How do I estimate the calories I’m eating if I didn’t make my food?
+How can I avoid Starvation Mode?
+How To Make Any Diet Work – by Paul Carter
+You’re Not losing Fat Because You’re Eating Too Damn Much. Even When You Don’t Think You Are. Let Me Show You. – Physiqonomics
+The Best Fat Loss Article on the Motherfuckin’ Internet – Physiqonomics
+Tailor-Made Nutrition – Part 1 – John Berardi, PhD

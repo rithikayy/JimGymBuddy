@@ -1,0 +1,45 @@
+Title: Why cant I lose weight
+URL: https://thefitness.wiki/faq/why-cant-i-lose-weight/
+
+Why can’t I lose weight?
+You are not losing weight because you are not eating at a calorie deficit.
+Please read that again.
+You are not losing weight because you are not eating at a calorie deficit.
+It doesn’t matter what the TDEE calculator says. It doesn’t matter what your food logs say. It doesn’t matter what math you’ve done. Unless you’re living in a metabolic ward, every measurement and calculation you can make are all only imprecise estimates, no matter how meticulous you are. But the scale doesn’t lie.
+You must either eat less, or be more physically active.
+Calorie balance really all there is to it
+, and the chances that you have an undiagnosed metabolic disorder are vanishingly small.
+This 1992 study
+demonstrates perfectly – all subjects with a history of difficulty losing weight had no significant variance in their metabolic rate (ie, they did not have “slow metabolisms”) and
+wildly
+under-reported the amount of calories they were eating and significantly over-estimated their activity levels.
+Either you are over-estimating the amount of calories your body is using, or under-estimating the amount that you are eating. It’s easy to get tripped up, discouraged, or confused when you are trying very hard and not seeing results, but it is important to remember that weight loss is
+entirely about
+achieving a calorie deficit
+. You can be as meticulous in your tracking and calculating as humanly possible, but
+if you are not losing weight, you need to eat less
+. Do not allow yourself to get so stuck staring at the trees of your calorie counting that you miss the forest of what your scale is telling you.
+Keep in mind the following important points:
+TDEE calculators are
+an estimate only
+and
+never to be taken as gospel
+if it’s in conflict with your results on the scale.
+Bodyweight can fluctuate by five pounds a day or more due to factors such as food, urine, feces, water, and glycogen. There is no need to be concerned just because your weight is not constantly moving downward. You should be tracking a trend over multiple weeks before worrying.
+Many food tracking websites crowd source their nutritional info, and may not be totally accurate. Never take this information as gospel if it’s in conflict with your results on the scale.
+If you’ve recently started a low carb or ketogenic diet, you likely experienced a rapid up front loss of weight that slowed down significantly. This was water weight and glycogen stores – not true weight loss – and should not be used as a barometer for your future weight loss.
+“Calorie burn” estimates (especially those that come from electronic devices or marketing materials for classes / gyms / workout methods) are generally wildly inaccurate and grossly overestimate the actual calorie usage of physical activity. It is all but guaranteed that you are not “burning” anywhere near as many calories as these numbers claim to tell you. You should avoid “eating back” calories based on those estimates or relying on them to reach a deficit.
+For more, it is strongly recommend reading the two articles below from Physiqonomics.
+You’re Not losing Fat Because You’re Eating Too Damn Much. Even When You Don’t Think You Are. Let Me Show You.
+The Best Fat Loss Article on the Motherfuckin’ Internet
+If you are
+absolutely certain
+that you are eating in a way that should otherwise result in weight loss, but have stagnated over a long period of time, then you should consult with a doctor, as the only alternative is a disease or disorder that
+r/Fitness
+is not qualified to help you with.
+If You’re Already Using a Calorie Tracker
+Sites like MyFitnesPal (MFP), SparkPeople, LiveStrong, FatSecret, CalorieCount, and CalorieKing often crowd source their nutritional information from users without verifying their claims. There are many examples of entries under-reporting the actual calories and macros in a given product or item. This can result in you eating significantly more calories than you think are.
+Alternatively,
+http://nutritiondata.self.com
+is not crowd sourced and can be trusted as a more reliable source of nutritional information of raw ingredients.
+When eating out, try and find comparable commercial proxies for your dish. Corporate websites often post the nutrition data for their products. For example PF Chang’s, Pei Wei, or Panda Express can be used for Chinese food. Applebee’s, TGI Friday’s, or Chili’s can be used for American food. Subway, Quiznos, or Firehouse Subs can be used for Sandwiches.

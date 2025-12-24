@@ -1,0 +1,199 @@
+Title: Glossary
+URL: https://thefitness.wiki/glossary/
+
+Glossary
+Table of Contents
+Toggle
+Dieting
+Training
+Competition
+General
+Abbreviations / Terms
+Bodyweight/Gymnastics Terms
+Dieting
+The term “
+skinnyfat”
+was originally coined to describe people in the normal
+BMI range
+(healthy weight) but who had blood markers showing an increased risk for many diseases and health conditions similar to those people in the obese BMI range. So, while they appeared healthy on the outside, upon closer inspection they were not. The technical term is
+metabolically obese, normal-weight individuals
+. In recent years this term has been co-opted to become a euphemism among people with fat in the wrong places and not enough muscle in the right places. In this instance, it’s a fairly meaningless term and does not change the applicability of any information or section in this FAQ.
+Cutting
+or going on ‘a cut’. Short for ‘cutting fat’. It’s a term used when one’s goal is to diet down to reveal the underlying muscle and obtain more definition. It requires a caloric deficit.
+Bulking
+or going on ‘a bulk’ is a term used when gaining weight, particularly muscle. In this instance, a caloric surplus is used in conjuntion with lifting to add muscle (and often some unavoidable fat) to the body.
+Training
+Rep
+– A repetition: one complete movement of the exercise you are performing.
+Set
+–  A number of reps performed in a row, with little or no rest in between
+Sets of repetitions are typically recorded as sets x reps. For example, “3×10 pull-ups” means 3 sets of 10 reps.
+Volume
+– The amount of work you are doing for a particular muscle group or lift in your program. Commonly used in generalities, such as “low” or “high” volume. For example, if you only do 5×5 for your bench press, this would be
+low
+volume.
+Intensity
+– How close the effort required in your training is to your maximum performance capability. Higher intensity means closer to your max.
+Not
+just how intense an exercise feels.
+Hypertrophy
+– Shorthand for
+muscle
+hypertrophy, or the increase in size of a muscle.
+Competition
+Powerlifting
+– A strength sport in which the goal is to lift the most weight for a single repetition in the squat, bench press, and deadlift. Sometimes misconstrued to mean “general strength training” or “any program which includes the squat, bench press, and deadlift”.
+Strongman
+– A strength sport in which competitors display strength and endurance in a variety of events which are often more dynamic than a single barbell lift, such as atlas stones, farmer’s carries, or keg tosses.
+Weightlifting
+– As one word, this refers to the strength sport of
+Olympic
+weightlifting – the snatch and the clean-and-jerk.
+BodyBuilding
+– Training primarily for the purpose of developing musculature and definition. May also refer to the sport in which competitors pose and are judged on various criteria of their muscular development.
+General
+You ‘
+lose
+‘ weight and your pants become ‘
+loose
+‘.
+A ‘
+regimen
+‘ is a systematic plan or regular course of action, a ‘
+regiment
+‘ is a military unit made up of several battalions, and a ‘
+regime
+‘ is the organization that is the governing authority of a political unit.
+You count the weight of the barbell when speaking about how much weight you lifted.
+Abbreviations / Terms
+1000lb Club
+– A goal in which the trainee’s combined 1 Rep Max weight for squat, bench, and deadlift is at least 1000lbs. Mostly a meme.
+1RM
+: One Rep Max — The maximum amount of weight that can be lifted one time. Nobody but weirdos say ORM.
+This pattern can be repeated for any number, ie, 2RM, 7RM, 10RM.
+5K
+: A running race which covers 5 kilometers
+5314B –
+5/3/1 for Beginners. A variant of the 5/3/1 program targeted at novices.
+ATG
+: Ass-To-Grass/Ground — A squat performed “below parallel”, ie, the hip crease goes below the knee, such that the trainee is nearly sitting on the ground.
+BB
+: Barbell
+BCAA
+: Branched-chain Amino Acid — BCAA’s are a supplement combination of three amino acids (building blocks of protein): leucine, isoleucine and valine. Generally taken to promote the increase in lean mass and reduce recovery time.
+BF%
+: Bodyfat Percentage — The amount of a person’s body weight that is due to body fat. This is the preferable metric compared to Body Mass Index (BMI) but is more difficult to determine.
+BtM:
+Building the Monolith, a 5/3/1 program for size
+BW
+: Body Weight
+C25K
+: Couch To 5K — A nine week beginner’s running program that is designed to help an untrained enthusiast gradually become capable of running a 5K.
+DB
+: Dumbbell
+DL
+: Deadlift — A movement that entails bending over and picking up a weight from the floor using the legs and back.
+DOMS
+: Delayed Onset Muscle Soreness — The muscular aches felt in the 1-3 days that follow a strenuous workout.
+EC Stack
+: Ephedrine and Caffeine — A combination of these two stimulants used to increase the rate at which body fat is burned.
+ECA Stack
+: Ephedrine, Caffeine, and Aspirin — The addition of Aspirin to an EC Stack is thought to reduce some of the cons of the stimulants
+GHR
+: Glute Ham Raise — An exercise used to strength the hamstrings.
+GSLP:
+Greyskull Linear Progression, a training method/program
+GOMAD:
+Gallon of Milk Every Day. A strategy for teaching skinny people who think they are hardgainers how to eat enough to gain weight. Don’t actually do it, it’s dumb.
+KB
+: Kettlebell. See
+/r/kettlebell
+.
+Keto
+: Ketogenic diet — An ultra low-carb/high fat diet designed to keep the body in a status of ketosis. See
+/r/keto
+.
+ICF
+: Ice Cream Fitness. A beginner barbell program.
+IF
+: Intermittent Fasting — A dieting technique of purposely not eating for 12-24 hours (depending on the specific plan) at a time.
+OHP
+: Overhead Press — A type of barbell movement that entails lifting the bar from shoulder height to over one’s head.
+OMAD:
+One Meal a Day. An intermittent fasting strategy.
+Paleo
+: Paleolithic diet — A nutritional plan based on the presumed ancient diet of wild plants and animals that various human species habitually consumed during the Paleolithic era. See
+/r/paleo
+.
+Plate:
+A 45lb/20kg barbell plate. As in, “He deadlifts six plates”. Refers to the number loaded on the barbell
+per side.
+PPL
+: Push Pull Legs — A kind of weight lifting split where upper body push exercises are done one day (e.g. bench press), upper body pull exercises are down the next (e.g. rows) and leg work is done the following (e.g. squats). Typically done in a ABCABCx fashion, where ‘x’ is a rest day.
+PR
+: Personal Record — The maximal amount of weight an individual has ever personally lifted.
+PWO
+: Pre-workout — A supplement that contains stimulants such as caffeine that is taken shortly before a workout.
+RDL
+: Romanian Deadlift — A variant of the deadlift performed with little to no knee bend in order to target the hamstrings and lower back muscles.
+ROM
+: Range of Motion – the distance a joint or limb travels during exercise.
+SS
+: Starting Strength — A beginner barbell program
+SBD
+: Squat, Bench, Deadlift. Generally used when referring to the total combined 1RM weight of these lifts
+SL
+: Strong Lifts 5×5 — A beginner barbell program
+STTP:
+Stick To The Program, ie, don’t deviate from your routine.
+TM:
+Training Max, generally used with percentage based programming such as 5/3/1 or GZCL
+WS4SB
+: Westside For Skinny Bastards
+Bodyweight/Gymnastics Terms
+BL
+Back Lever
+FL
+Front Lever
+GHR
+Glute Ham Raise
+HBP
+Hollow Back Press
+HSPU
+Handstand Push Up
+HeSPU
+Headstand Push Up
+HS
+Handstand
+HMSH
+Horizontal Middle Split Hold
+MU
+Muscle Up
+MN
+Manna
+MSH
+Middle Split Hold
+OAC
+One Arm Chin up
+OAP
+One Arm Pull up
+PL
+Planche
+PHS
+Press Handstand (not related to HSPU)
+PPPU
+Psuedo Planche Pushup
+RC
+Rope Climb
+RTO
+Rings Turned Out
+SAS
+Straight Arm Strength
+SL
+Side Lever
+SPL
+Straddle Planche
+RMU
+Reverse Muscle Up aka Pelican
+SLS
+Single Leg Squat

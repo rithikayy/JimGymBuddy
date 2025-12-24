@@ -1,0 +1,107 @@
+Title: 531 Primer
+URL: https://thefitness.wiki/5-3-1-primer/
+
+5/3/1 Primer
+Table of Contents
+Toggle
+Core Concepts
+Main Lifts
+The Training Max
+Main Work
+Supplemental Work
+Assistance Work
+Training Max Testing and Deloading
+The aim of this page is to provide a simple, straightforward overview which consolidates the many years of information about 5/3/1 into one place. Please note that this page is not (and to prevent legal problems
+cannot
+be
+) comprehensive or all-inclusive, and is assembled from information that Jim Wendler has released for free in forums, articles, and blog posts.
+There are many 5/3/1 variants that are available for free online, and it is very possible to follow them without any need to purchase any of the 5/3/1 books. If you want to support Jim Wendler, understand 5/3/1 better, or have more variants available to choose from, the most common recommendation on r/Fitness is that
+5/3/1 Forever
+is the only book that is necessary for those purposes.
+Core Concepts
+Modern 5/3/1 variants can be broken down into three distinct components. Not all variants use all three components on each training day. These are outlined in greater detail below.
+Main Work
+Also referred to by Jim Wendler as “5/3/1 sets” or just “5/3/1”, this is the staple three sets of rotating percentages of the
+Training Max
+, spread over three weeks, that most people are familiar with. It is used by a main lift for the day.
+Supplemental Work
+Additional volume, usually at a lower intensity, as a supplement to the Main Work, which is also derived from the
+Training Max
+.
+Assistance Work
+Modern 5/3/1 variants will almost always follow the Push, Pull, and Single Leg/Core assistance pattern to add “full body” work to a given training day. This work is extremely flexible and left largely up to the trainee to determine.
+Main Lifts
+The majority of 5/3/1 variants are built around the four Main Lifts. These are:
+Press (Overhead Press)
+Bench Press
+Squat (Back Squat)
+Deadlift (Conventional)
+Most variants will center around one of these on a given training day, but some may program more than one.
+The Training Max
+The weights of Main and Supplemental Work are determined by using a percentage of the lift’s Training Max. When starting 5/3/1 for the first time, or after a long break, the Training Max is set initially based on a percentage of the lift’s actual (or estimated) One Rep Max (1RM). Most variants will set the Training Max at either 85% or 90% of the 1RM. If this is not specified, it should be taken to be 90%. As an example, if your 1RM for the Deadlift is 405, your Training Max would be set to either 345 (85%) or 365 (90%).
+It is not necessary to directly test your 1RM in order to set your Training Max. 1RM calculators can be used fairly reliably for any rep max set of 8 reps or fewer.
+The Training Max is also what drives progression in your training weights. After each 3 week cycle, you add weight to the Training Max and calculate a new set of weights. The Press and Bench Press add 5lbs, and the Squat and Deadlift add 10lbs.
+Finally, a periodic evaluation of your Training Max is done to ensure it is not too high, and deload if necessary to drive further progress. This is covered in greater detail below.
+Main Work
+As mentioned above, this is the 3 weeks of rotating sets, reps, and percentages used as the first sets of a main lift that most people are most familiar with. The percentages here are of the Training Max, NOT a One Rep Max.
+Week 1:
+5 reps at 65%, 5 reps at 75%, 5+ reps at 85%
+Week 2:
+3 reps at 70%, 3 reps at 80%, 3+ reps at 90%
+Week 3:
+5 reps at 75%, 3 reps at 85%, 1+ rep at 95%
+The “+” for the last set indicates that it is an AMRAP set – As Many Reps As Possible. Wendler is very adamant that this should never be to absolute failure, and to use drops in bar speed and rep quality to determine when you stop.
+Past iterations of 5/3/1 involved a deload week every 4th week. This commonly causes confusion when reading older articles, but it is outdated and no longer used.
+There are two alternate layouts of the basic Main Work:
+5s PRO
+This is done with the same percentages, but with all sets being 5 reps. The last set is also done with the fixed 5 reps, rather than an AMRAP.
+3/5/1
+In this layout, Week 1 and Week 2 are swapped. This also affects the percentages used in the Supplemental Work.
+These two alternates can also be combined.
+Supplemental Work
+Supplemental Work is done after the Main Work for a lift and serves to add training volume in various ways at various intensities. As noted above, it is most often done using the same lift as the Main Work. However, some variants (or by trainee preference) swap in the sister lift instead – Bench Press is paired with Press, Squats are paired with Deadlifts.
+There are a number of common layouts of Supplemental Work. This list is by no means exhaustive or comprehensive, it simply covers what is most common and publicly available.
+First Set Last
+(FSL)
+Uses the same percentage of Training Max as the first set of Core Work for that day. This is 65, 70, and 75% for Weeks 1, 2, and 3, respectively. Done for 5 sets of 5 reps.
+Second Set Last
+(SSL)
+Just like First Set Last, except uses the second set of Core Work. 75, 80, and 85% for Weeks 1, 2, and 3, respectively. Done for 5 sets of 5 reps.
+Last Set Last
+(LSL)
+Again, just like the above, but using the very last set of Core Work. 85, 90, 90% for Weeks 1, 2, 3 respectively. Done for 5 sets of 5 reps.
+Boring But Big
+(BBB)
+Can be run using a number of different (low) percentages of Training Max, for 5 sets of 10 reps. See the
+Boring But Big article
+for examples.
+Boring But Strong
+(BBS)
+This uses the FSL percentages, but for 10 sets of 5 reps.
+Widowmaker
+This uses the FSL percentages for 1 set of 15-20 reps.
+Assistance Work
+Modern variants of 5/3/1 will generally be run with “full body” Assistance Work each day.  This involves selecting one exercise that falls into each category – Push, Pull, Single Leg/Core – and doing some total number of reps throughout the workout. The number of total reps varies, but is most commonly a range of 50-100.
+Jim Wendler’s philosophy on the Assistance Work is that the only part of it that matters is that you are getting the work done without either sandbagging or running yourself into the ground. For this reason, Assistance Work is left entirely up to the trainee to determine which exercise for each category and the weight, sets, and reps.
+Some example recommendations can be found in the
+5/3/1 for Beginners article
+, but ultimately any exercise that fits into each category can be used.
+Training Max Testing and Deloading
+Jim Wendler’s most current guidelines for running 5/3/1 programs are to periodically perform a Training Max Test Week to ensure your TM is not too high, and lower your TM if appropriate. This is unfortunately an area where we cannot go into much detail to avoid potential legal issues, as it’s not clear how much of
+5/3/1 Forever
+‘s information on this topic has been made publicly available.
+A recommendation we feel safe making is to perform a TM Test Week every 10 weeks – or after three 3 week cycles. For this test week, you increase your TM as normal and test the new TM. For example, if you ended your third cycle with a TM of
+405
+for your Deadlift, your TM for the test week would be
+415
+.
+The percentage protocol for the week is:
+5 reps at 70%
+5 reps at 80%
+3 reps at at 90%
+3-5 reps at 100%
+Your reps on the last set determine if you should reduce your TM or not:
+If you get 3 or more reps, your TM is appropriate, and you can continue as normal using the same TM as the test week for the next cycle.
+Never
+add extra weight to your TM based on this set.
+If you get fewer than 3 reps, use that number to estimate your 1 Rep Max, and reset your TM based on that for your next cycle.

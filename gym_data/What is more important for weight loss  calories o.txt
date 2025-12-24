@@ -1,0 +1,93 @@
+Title: What is more important for weight loss  calories o
+URL: https://thefitness.wiki/faq/what-is-more-important-for-weight-loss-calories-or-macros/
+
+What is more important for weight loss – calories or macros?
+Unequivocally,
+calories
+.
+You may have found this page because you have heard the phrases “a calorie is not a calorie” or “the human body is not a bomb calorimeter”. These statements are pseudoscience and people who repeat them are probably not your friend. Scientific study has repeatedly, and consistently, shown that
+any
+dietary strategy that alters caloric balance to put you in a deficit will result in weight loss, and the specifics of how the deficit is achieved have minimal, if any, effect on the magnitude of weight loss.
+To help better educate people on this subject, the below list of studies was originally compiled by former r/Fitness moderator eric_twinge. In addition, the Stronger by Science article
+From Mass to Energy: The Basic Physiology of Calories
+provides an excellent explanation of the relationship between calories and mass.
+Several metabolic ward studies have shown that there is no difference in weight loss when protein intake was held constant.
+1
+Metabolic effects of isoenergetic nutrient exchange over 24 hours in relation to obesity in women.
+2
+Energy-intake restriction and diet-composition effects on energy expenditure in men.
+Nutrient balance in humans: effects of diet composition.
+Nutrient balance and energy expenditure during ad libitum feeding of high-fat and high-carbohydrate diets in humans.
+Substrate oxidation and energy expenditure in athletes and nonathletes consuming isoenergetic high- and low-fat diets.
+Regulation of macronutrient balance in healthy young and older men.
+The effect of protein intake on 24-h energy expenditure during energy restriction.
+Effects of dietary fat and carbohydrate exchange on human energy metabolism.
+Energy expenditure in humans: effects of dietary fat and carbohydrate.
+Failure to increase lipid oxidation in response to increasing dietary fat content in formerly obese women.
+2
+Energy intake required to maintain body weight is not affected by wide variation in diet composition.
+Weight-loss with low or high carbohydrate diet?
+Effect of high protein vs high carbohydrate intake on insulin sensitivity, body weight, hemoglobin A1c, and blood pressure in patients with type 2 diabetes mellitus.
+Energy expenditure and body composition changes after an isocaloric ketogenic diet in overweight and obese men.
+For a good review of the situation that includes a synthesis of the first 10 of these studies, I suggest you read this paper:
+Is a calorie a calorie?
+To continue the parade of literature showing no winner in the carbs v. fat battle royale:
+Long Term Effects of Energy-Restricted Diets Differing in Glycemic Load on Metabolic Adaptation and Body Composition
+Long-term effects of 2 energy-restricted diets differing in glycemic load on dietary adherence, body composition, and metabolism in CALERIE: a 1-y randomized controlled trial.
+Efficacy and safety of low-carbohydrate diets: a systematic review.
+Popular Diets: A Scientific Review
+Effects of 4 weight-loss diets differing in fat, protein, and carbohydrate on fat mass, lean mass, visceral adipose tissue, and hepatic fat: results from the POUNDS LOST trial.
+In type 2 diabetes, randomisation to advice to follow a low-carbohydrate diet transiently improves glycaemic control compared with advice to follow a low-fat diet producing a similar weight loss.
+Comparison of weight-loss diets with different compositions of fat, protein, and carbohydrates.
+Similar weight loss with low- or high-carbohydrate diets.
+Energy intake required to maintain body weight is not affected by wide variation in diet composition.
+Effect of energy restriction, weight loss, and diet composition on plasma lipids and glucose in patients with type 2 diabetes.
+Effects of moderate variations in macronutrient composition on weight loss and reduction in cardiovascular disease risk in obese, insulin-resistant adults.
+Atkins and other low-carbohydrate diets: hoax or an effective tool for weight loss?
+Ketogenic low-carbohydrate diets have no metabolic advantage over nonketogenic low-carbohydrate diets.
+Lack of suppression of circulating free fatty acids and hypercholesterolemia during weight loss on a high-fat, low-carbohydrate diet.
+Low-fat versus low-carbohydrate weight reduction diets: effects on weight loss, insulin resistance, and cardiovascular risk: a randomized control trial.
+Comparison of the Atkins, Ornish, Weight Watchers, and Zone diets for weight loss and heart disease risk reduction: a randomized trial.
+Long-term effects of a very-low-carbohydrate weight loss diet compared with an isocaloric low-fat diet after 12 mo.
+Weight and metabolic outcomes after 2 years on a low-carbohydrate versus low-fat diet: a randomized trial.
+The effect of a plant-based low-carbohydrate (“Eco-Atkins”) diet on body weight and blood lipid concentrations in hyperlipidemic subjects.
+To come at this problem from the other side, here are three studies showing no difference in weight
+gain
+when the ratio of carbs:fat is manipulated:
+Fat and carbohydrate overfeeding in humans: different effects on energy storage.
+3
+Macronutrient disposal during controlled overfeeding with glucose, fructose, sucrose, or fat in lean and obese women.
+Effects of isoenergetic overfeeding of either carbohydrate or fat in young men.
+It may also interest you to learn that dietary fat
+is
+what is stored as bodily fat, when a caloric excess is consumed. And that for dietary carbohydrates to be stored as fat (which requires conversion through the process called ‘
+de novo
+lipogenesis’ the carbohydrate portion of one’s diet alone must approach or exceed one’s TDEE.
+Lyle McDonald’s got
+great read on this subject
+, but if you prefer a more scientific one I suggest you give this review a gander:
+De novo lipogenesis in humans: metabolic and regulatory aspects.
+For a great primer on insulin (with tons of citations) and how it really functions, check out this series:
+Insulin…an Undeserved Bad Reputation
+The series was summarized quite well in
+this post
+.
+1
+If you’re really looking for a metabolic advantage through macronutrient manipulation, you’d be far better off putting your money on protein. There’s actually some evidence that higher intake levels
+do
+convey a small metabolic advantage.
+2
+These two papers actually found a
+decreased
+amount of energy expenditure in the high fat diets.
+3
+This study found a greater of amount of fat gain in the high fat diet, though weight gain was still similar.
+Additionally, one of the most well known proponents of the “calories aren’t calories” mantra, Gary Taubes, is someone you should absolutely not trust for information. Below you can find numerous articles discussing the many, many problems with his viewpoints and the science he uses to support them.
+The Case Against “The Case Against Sugar”
+Bad sugar or bad journalism? An expert review of “The Case Against Sugar”
+The Carbohydrate Hypothesis of Obesity: a Critical Examination
+Why We Get Fat – Science Based Medicine
+Gary Taubes and the Case Against Sugar – Science Based Medicine
+Insulin: An Undeserved Bad Reputation, Part 2
+A compilation of critical analyses from CarbSanity
+Transcript of a debate between Jillian Michaels and Taubes

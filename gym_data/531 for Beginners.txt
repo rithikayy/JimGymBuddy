@@ -1,0 +1,278 @@
+Title: 531 for Beginners
+URL: https://thefitness.wiki/routines/5-3-1-for-beginners/
+
+5/3/1 for Beginners
+Table of Contents
+Toggle
+If you are considering starting this program, please note…
+Quick Program Overview
+Training Max Basics
+General Pre-Workout Warm Up
+Main Lifts – Sets and Reps
+The Full Program
+Assistance Work
+Example Main Lifts Work
+Rest Between Sets
+Progression
+FAQ – Why is the progression so slow? Wouldn’t faster progression be better?
+Regular Training Max Testing / Deloading
+Stalling / Missing Reps
+Reducing Workout Time
+Sample Assistance Templates
+The original article by Jim Wendler that details 5/3/1 for Beginners (also known as “5314B”) can be found
+here.
+This page is intended to serve as a
+companion
+to this article, not a complete replacement for it, so please make sure to read the original in full as well as this page.
+A spreadsheet for this program can be found here.
+It’s a good idea to have a look at it if you are confused about how the program works. Download it or Make a Copy to your own Google Drive if you want to make use of it.
+Don’t be intimidated by the amount of detail on this page. This program is actually
+very simple.
+If you just want to dive right in to following the routine, you can absolutely just plug numbers into the spreadsheet and go. The detail here is for those who want to understand it a bit better. You might also want to read over our
+5/3/1 Primer
+page for a better breakdown of 5/3/1 as a training system.
+Many common questions about this routine have been discussed by the community in the
+Routine Campfire thread
+for it, so make sure to check there if anything is confusing.
+If you are considering starting this program, please note…
+All 5/3/1 variations (this is just one of many) use
+percentages of a Training Max
+to set the weights you use in training for the Squat, Deadlift, Overhead Press, and Bench Press. If you have never run 5/3/1 before, you will initially set your Training Max as a percentage of your Estimated 1 Rep Max. This is discussed in more detail below.
+While there is technically no minimum strength requirement for this program, if your Estimated 1 Rep Maxes for the Squat, Overhead Press, and Bench Press are not at least 75lbs, you may find it
+logistically
+difficult to follow, because some days will take some of your training sets below 45lbs – the weight of an unloaded barbell. The best way to adapt to this is to use dumbbell variations of these three lifts.
+In addition, if your Estimated 1 Rep Max for the Deadlift is below 230lbs, be sure you have a way to simulate the same bar height as if it were loaded with standard 45lb plates for some days, when some sets will be below 135lbs. This is most commonly done using bumper plates or blocks.
+Quick Program Overview
+This section is a barebones overview of the program. This is all covered in greater detail in the sections below.
+On each of the three lifting days, you will be doing the following:
+Quick warmup of jumping or throwing movements.
+Eight sets of your first Main Lift for the day. Your third set is an AMRAP (As Many Reps As Possible) set. Optionally, three more warmup sets can be done first.
+Eight sets of your second Main Lift for the day. Your third set is an AMRAP set.
+50-100 reps of one Push, one Pull, and one Single Leg or Core exercise.
+The exercises you choose in #4 can be done between sets of either of your Main Lift to save time.
+Training Max Basics
+The main work for 5/3/1 programs is done as percentages of a Training Max (TM). Progression to higher weights is also via the Training Max, which is explained in further detail below.
+To set your initial Training Max when starting this program:
+For each of the main lifts (squat, bench press, overhead press, deadlift), work up to a weight that you can only complete 3-5 reps of with good bar speed.
+Take this weight and the number of reps and calculate your estimated One Rep Max (1RM) using a calculator such as
+this one
+.
+Take 90% of the estimated 1RM and use this as your starting Training Max.
+Important
+Note
+:
+This will be the only time that your TM is so directly connected to your 1RM. A core philosophy of 5/3/1 is to train sub-maximally and drive steady progress over time. As you go through the program your strength will be increasing above what your TM is set at, and this is intended. Always remember that the purpose of the Training Max is to inform your workout – it is not a measure of your progress or your strength. With 5/3/1, your workouts are almost never about
+testing
+your strength – they are about building it.
+General Pre-Workout Warm Up
+Before you do any of the lifting, choose one of the following and perform 10-15 total reps over 2-3 sets. This should not take more than 5-10 minutes
+at most
+.
+Box Jumps
+Broad Jumps
+Medicine Ball Throws
+Main Lifts – Sets and Reps
+This section outlines the sets and reps used for the Main Lifts in the 5/3/1 for Beginners program. Sets, reps, and percentages used change each week on a repeating three week cycle.
+The notation below is “Number of Sets x Number of Reps”.
+The percentages listed are a percentage of your current Training Max.
+The “+” denotes that the set is AMRAP – As Many Reps As Possible. This set should
+not
+be to absolute muscular failure. A good way to gauge when to stop the speed of the bar slows significantly compared to the previous reps. You want these to be crisp, quality reps – never grinders.
+Optional Warmup
+You can warm up for your work on the Main Lifts with the following sets. This is optional and can be done with minimal rest between each set.
+5 reps @ 40%
+5 reps @ 50%
+3 reps @ 60%
+Work Sets
+Week 1
+5 reps @ 65%
+5 reps @ 75%
+5+ reps @ 85%
+5 sets of 5 reps @ 65%
+Week 2
+3 reps @ 70%
+3 reps @ 80%
+3+ reps @ 90%
+5×5 @ 70%
+Week 3
+5 reps @ 75%
+3 reps @ 85%
+1+ reps @ 95%
+5×5 @ 75%
+The sets and reps for the Main Lifts are made up of two parts. The first three sets are the “Core” 5/3/1 sets that are used in most variants of 5/3/1. The 5×5 sets are “First Set Last” (FSL) sets, which are called “Supplementary Work” in 5/3/1 terms. Their purpose is to add volume to the Main Lift, and their name comes from the percentage used – it is the same as the first set of the day.
+The Full Program
+Day 1 (Monday)
+Squats –
+Main Lift Sets
+Bench Press –
+Main Lift Sets
+Push, Pull, and Single Leg/Core Assistance Work
+Day 2 (Wednesday)
+Deadlift –
+Main Lift Sets
+Overhead Press –
+Main Lift Sets
+Push, Pull, and Single Leg/Core Assistance Work
+Day 3 (Friday)
+Bench Press –
+Main Lift Sets
+Squats –
+Main Lift Sets
+Push, Pull, and Single Leg/Core Assistance Work
+Assistance Work
+Each day, choose one exercise for each of the three categories below, and perform 50 – 100 reps of it. The number of sets you use to accomplish this is not important. You can do all of your reps for each category one at a time, or to finish your workout faster, you can cycle through a set from each category in a circuit. If you choose a bodyweight exercise and cannot complete at least 50 reps, you can choose a second exercise to finish the total out. If you choose a weighted exercise and cannot complete at least 50 reps, you chose a weight that was too high.
+Don’t overthink your exercise choices, your weight selection, or your sets and reps – What’s important about this work is just getting a lot of full body volume done.
+Push
+Pull
+Single Leg/Core
+Dips
+Chinups
+Any Ab / Core Exercise
+Pushups
+Pullups
+Back Raises
+Flat DB Bench
+Inverted Rows
+Reverse Hypers
+Incline DB Bench
+DB Rows
+Lunges
+DB OHP
+Cable Rows
+Step Ups
+Tricep Extension
+Machine Rows
+Bulgarian Split Squats
+Tricep Pushdown
+Face Pulls
+KB Snatches
+Band Pull-Aparts
+KB Swings
+Lat Pulldowns
+Curls
+Example Main Lifts Work
+If you’re having trouble putting it all together, below is an example of the Main Lifts for Week 1, Day 1. We also recommend looking over the spreadsheet linked at the top of this page for a more full picture.
+Lift
+Est. 1RM
+Training Max
+Squat
+215
+190
+Bench Press
+155
+140
+Lift
+Set 1
+Set 2
+Set 3
+Sets 4,5,6,7,8
+Squat
+125 x 5
+140 x 5
+160 x 5+
+125 x 5
+Bench Press
+90 x 5
+105 x 5
+120 x 5+
+90 x 5
+Rest Between Sets
+Jim Wendler does not provide any guidelines for rest between sets, so you can tailor this to your recovery and scheduling needs. Most commonly, rest times are kept between 1.5-3 minutes between sets. Some additional considerations:
+You can generally use shorter rest times between your FSL sets, as well as your accessory work.
+Longer rest times will generally allow for greater performance in future sets.
+Longer rest times will allow you to superset more of your accessory work between main lifts.
+Shorter rest times will help build
+work capacity
+.
+Progression
+At the end of each three week cycle, you progress by adding weight to the Training Max of your lifts:
+Add 5lbs to the TM of upper body lifts (Bench Press and Overhead Press)
+Add 10lbs to the TM lower body lifts (Squat and Deadlift)
+You add the same amount of weight to your Training Max no matter how many reps you hit on your AMRAP sets. Never more.
+Remember always that your Training Max is not a measure of your progress or your strength.
+FAQ – Why is the progression so slow? Wouldn’t faster progression be better?
+Trainees who are new to programs like 5/3/1 often get concerned about the “slower progression” of the Training Max when compared to some other novice programs that have you add weight to the bar every training day (“Linear Progression”). This is understandable, but it comes from a fundamental misunderstanding – that progression of the loading of the barbell in training is the same as the progression of the strength of the lifter. While these two things are definitely connected, they are far from being one-to-one, and submaximal training has been tested by both time and science as an effective method of driving strength and muscle development.
+5/3/1, like the majority of lifting programs by reputable coaches, is a training methodology that operates in multiple dimensions – it manages intensity, volume, and fatigue, exposes you to different rep ranges and movements, and measures progress as more than just training weights – all very important factors for long term success in your training. A traditional LP program does not manage any of these things, and only works in a single dimension – weight on the bar – which is not only suboptimal but actively detrimental to your long term training and mindset. You can read some additional related thoughts
+here
+and
+here
+, from the page explaining why Starting Strength and StrongLifts are not recommended.
+Most programs like 5/3/1 will have moments of testing built in to them for you to use to measure progress over time. If you want to succeed in the long term, you will need to learn to trust the process and use the periodic AMRAP sets and test weeks to check on your progress – not look to be testing your progress in every set of every training session.
+Regular Training Max Testing / Deloading
+Though this is not part of the original article, we strongly encourage using the TM Test Week protocol that is
+outlined on the 5/3/1 Primer page
+. You would do this every 10th week, or after three 3 week cycles.
+For this week, the layout of your Main Lifts will be slightly different:
+Day 1 (Monday): OHP TM Test first, then Squat TM Test
+Day 2 (Wednesday): Bench TM Test
+Day 3 (Friday): Deadlift TM Test
+Assistance work is unchanged.
+Stalling / Missing Reps
+At some point as you’re running this program, you may reach a point where you are unable to complete the sets and reps for your main lifts, either at all or with clean, fast reps. When this happens, it is important to remember:
+You may have just had a bad day, so don’t worry if it happens once or twice.
+It is an expected event in the process of training and getting stronger.
+It is not necessarily a reason to question, re-evaluate, or significantly change your training.
+If you find that you are
+consistently
+not hitting the sets and reps for a lift over a period of at least one full three week cycle, it is time to lower your Training Max for that lift. The general guideline for this is to reduce it by three cycle increments (15lbs / 30lbs). If you find yourself feeling discouraged by this, again, remember –
+Your Training Max is not a measure of your progress or your strength.
+You will continue to make progress and set rep PRs on the AMRAP sets after you deload.
+Reducing Workout Time
+If you find your workouts running longer than you’d like, besides manipulating rest times, here are some other strategies you can use to complete the workout faster:
+Use the rest periods between sets of your main lifts to complete accessory work. This has the added benefit of helping to
+build your work capacity by increasing training density
+. If you do, you should choose an accessory that will not interfere with the main lift you are currently performing. (Ex: Squats + Face Pulls, Bench + Ab Wheels, Deadlifts + Curls, etc)
+Do your Push, Pull, and Single Leg / Core exercises in a circuit. Perform one set of each exercise, rest briefly, then repeat until you’re done.
+Sample Assistance Templates
+Here are some example setups for your Push/Pull/Single Leg or Core assistance work.
+Bodyweight
+Progression:
+– Last set is always AMRAP. Push it.
+– Start at a minimum of 10×5. If you can’t do this, do assisted reps using bands or a machine.
+– Work up to 10×10.
+– After you can comfortably do 10×10, start doing fewer sets with more reps. Work up to 5×20.
+Day 1
+– Pushups
+– Chinups
+– Leg Raises
+Day 2
+– Dips
+– Inverted Rows
+–
+Single Leg Split Squats
+Day 3:
+– Pushups
+– Pullups
+– Leg Raises
+Mirror Bro
+Progression:
+– Do 8×8-12.
+– When you can do 8×12, add some weight.
+– If you can’t do at least 8×8 with the new weight, you added too much.
+– Do planks at 8×20-60s.
+Day 1:
+– Lateral Raises
+– Curls
+– Leg Raises
+Day 2:
+– Incline DB Press
+– Shrugs
+– Cable Crunches
+Day 3:
+– Tricep Pushdowns
+– Neutral Grip Chinups
+– Planks
+Time Saver
+– Meant to be doable in circuit / superset in a potentially crowded public gym.
+– Progress the DB lifts like Mirror Bro, BW movements like Bodyweight
+– Do planks at 8×20-60s.
+– Do a set of your main lift, a set of both accessories, then rest 90s. Repeat.
+Day 1:
+– Superset Bench with: DB Row, Planks
+– Superset Squat with: DB OHP, BW Bulgarian Split Squat
+Day 2:
+– Supserset OHP with: DB Curls, Paloff Press with Band
+– Superset DL with: Pushups, DB Lunges
+Day 3:
+– Superset Squat with: DB Rows, DB Swings
+– Superset Bench with: DB Lateral Raises, Leg Raises (on bench)

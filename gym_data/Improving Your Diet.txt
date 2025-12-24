@@ -1,0 +1,150 @@
+Title: Improving Your Diet
+URL: https://thefitness.wiki/improving-your-diet/
+
+Improving Your Diet
+Table of Contents
+Toggle
+TLDR
+Weight Change
+General Diet Improvement
+Calories and Calorie Balance
+Macronutrients
+So What’s the “Best” Diet?
+Related Resources
+Read Time:
+9
+minutes
+Before we get into the details, there is one thing above all else that it is important to grasp if you want results that last.
+If you want to keep your results, you must be willing to approach this as a change to your lifestyle.
+If your intent is to “go on a diet” until you reach a specific goal, so that you can then return to your old habits, chances are very, very high that your results will not last, and you will end up right back where you started – or worse. The world is full of  people who have yo-yo’d for years because they went about it that way. Your current/old habits are what got you where you don’t want to be. You must build new habits, and may need to completely change your relationship with food.
+Don’t let this daunt you. “Changing your lifestyle” and “changing your relationship with food” do
+not
+have to mean throwing out all the foods you love forever and eating nothing but bland chicken salads every day. Extreme changes to diet don’t work in the long run either.
+TLDR
+There are many dietary strategies and they can all work, so follow whichever one is easiest for you to stick with – because it’s really all about calories, protein, and just generally eating well.
+Estimate your Total Daily Energy Expenditure (TDEE) in calories. Eat 10-20% fewer calories to lose weight, eat 10-20% more calories to gain weight.
+Shoot for 120g of protein as a minimum, with up to 160g or 0.8g/lb for muscle gain, per day.
+Shoot for 0.3g/lb of fat per day for your body’s general dietary and hormonal needs.
+Fill in your remaining calorie budget with as much protein, fat, and carbs as you want.
+Eat like an adult.
+Weight Change
+Chances are, you’re here because you’re not happy about your weight – Either you’re overweight and want to slim down, or you’re skinny and want to get bigger. The first step to changing your weight is understanding the fundamental mechanism of weight change – calorie balance.
+Your body uses calories every day to fuel itself and activity – this is called your Total Daily Energy Expenditure, or TDEE. The difference between how many calories you eat and your TDEE is what determines whether you gain weight, lose weight, or stay the same weight. Eat less than your TDEE (a deficit), and you will lose weight. Eat more (a surplus), and you will gain weight – and if you’re doing strength training, some of it will be muscle. This is often referred to as “Calories In, Calories Out” or “CICO”.
+CICO is sometimes confused (sometimes on purpose, by gurus) as being an eating strategy, but it’s not – it’s just the underlying principle that describes the mechanism of weight change. There are factors can make reaching the correct calorie balance easier or harder for different people. You may need to try a few different dietary strategies before you find one that’s easy for you, personally, to stick with. But no matter what, if you want to change your weight on the scale, your dietary strategy must ultimately conform to the principle of Calories In, Calories Out. The good news is, it doesn’t matter this happens directly (such as by counting calories), or indirectly (such as by eating foods that make you feel full so that you eat less naturally).
+You don’t necessarily need to dive in to meticulous tracking of calories and food to start – in fact, sometimes doing that can be overwhelming and/or actively detrimental, especially if you have a history of disordered eating or other mental health concerns. However, if you’re having trouble gaining or losing the weight you want over a period of time, at some point you’re probably going to have to start paying attention to and manipulating your caloric balance directly.
+See also:
+Why can’t I lose weight?
+Why can’t I gain weight?
+What is more important for weight loss – calories or macros?
+General Diet Improvement
+If you’re not looking to get into the weeds with calories and macronutrients, you can often make progress just by making some general improvements to your eating habits. A great place to start is with the Tailor-Made Nutrition article series by John Berardi, PhD:
+Tailor-Made Nutrition – Part 1
+(Read time: ~15 minutes)
+Here are some broad general guidelines on “cleaning up” your diet that will serve you well:
+Prefer whole foods as much as possible
+Eat plenty of vegetables
+Avoid snacking between meals if your goal is weight loss
+Limit consumption of sugar, sweets, junk food, and alcohol
+Remember: You don’t have to give these up entirely, just be smart about it, and understand the trade offs.
+You can also get some “tough love” advice from Coach Dan John’s article
+Eat Like a Warrior King
+:
+Someone recently asked me about “the secret to nutrition.” Seriously, you don’t know what to do about food? Here’s an idea: eat like an adult.
+Stop eating fast food, stop eating kid’s cereal, knock it off with all the sweets and comfort foods, and ease up on the snacking. And don’t act like you don’t know this: eat more vegetables and fruits.
+Really, how difficult is this? Stop with the whining. Stop with the excuses. Act like an adult and stop eating like a television commercial. Grow up.
+It reminds me of what they tell students at top universities: “Look to your right. Now, look to your left. Every person around you was a straight-A student in high school, class president, and valedictorian. Get over it.”
+Every success in your life doesn’t call for several extra rounds of beer, a salutary doughnut, and high fives from everyone. You’re an adult now; you don’t need a cookie every time you do something special.
+Great athletes score a touchdown, goal, or point and just keep moving along. It’s your job, so get over it. So, if you want to look good in the future, you have to start looking at food like, well, food and not a reward.
+Step one to the kingly approach to eating is to have a long-term focus. We all know that vegetables, lean protein, and fresh water are probably the best choices meal-in and meal-out the rest of your life. If you hover around those choices for the bulk of your meals, you’ll be fine. You know this. Do this.
+Calories and Calorie Balance
+Quick refresher:
+To
+lose
+weight, you must eat
+fewer
+calories than your TDEE – a
+deficit
+.
+To
+gain
+weight, you must eat
+more
+calories than your TDEE – a
+surplus
+.
+To manage your calorie balance in the way you need for your goals, you will need to know both how many calories are coming in and how many calories are going out. Neither of these are an exact science, and the “calories out” part especially so. Remember that any calculation of your TDEE is always going to be just an estimate and is not carved in stone. The scale, however, doesn’t lie about your calorie balance.
+For tracking your “calories in”, tools such as
+NutritionData
+are very useful. Google can also be a very powerful tool for finding this information. If you’re
+really
+having trouble, you may also need to individually weigh your food with a food scale to be sure you have an accurate serving size. There are also some well respected paid apps, such as
+Stronger By Science’s MacroFactor
+or the
+RP Diet
+app, that will do most of the thinking and planning for you.
+For estimating your “calories out”, any TDEE calculator you can find on the internet will offer you a good initial target to shoot for.
+Remember that this is
+an imprecise estimate only
+and your actual TDEE may be higher or lower.
+Don’t get caught up in trying to find the perfect starting number. Expect it to be inaccurate at first and expect to have to adjust it. For the longer term, r/Fitness users have got a lot of value out of the
+nSuns Adaptive TDEE Spreadsheet
+. It will give you an estimate as a starting point, and as you enter your weight and calories consumed each day, it will calibrate and give you a more accurate picture of your TDEE over time.
+The most common recommendation is to add or subtract 10-20% of your TDEE to determine your daily calorie needs. While it’s attractive to get results “faster” by doing crash diets or “dirty bulking”, being relatively conservative is important for health, adherence, and satisfaction in the long term.
+When gaining weight, the higher above your TDEE you go, the more fat you will gain along with building muscle. It will also be more difficult to make large jumps in food intake without discomfort.
+When losing weight, the lower below your TDEE you go, the harder it will be to preserve muscle and maintain athletic performance. You’ll also be at greater risk for nutritional deficiencies and rebounding through binge eating.
+Keep in mind also that your weight is a factor in your TDEE, so as your weight goes up or down, so too will your TDEE, and you will need to periodically re-evaluate your estimate. Keeping track of your weight over a period of time is a good way to do this. If your weight remains unchanged for a few weeks or more, it’s probably time to make an adjustment.
+Macronutrients
+These are protein, fat, and carbohydrates – as opposed to
+micro
+nutrients, which are vitamins and minerals.
+Macronutrients (or simply “macros”) are often an area of contentious debate that are rarely as important as they are sometimes treated. What matters most after calories is
+protein
+– you can read more about this in the extensive list of nutritional studies compiled on
+this page
+.
+Caloric breakdown:
+Protein: 4 calories per gram
+Fat: 9 calories per gram
+Carbs: 4 calories per gram
+Protein
+The foundation of your macros should be your protein. PhD candidate Jorn Trommelen recommends 120g/day for those seeking a minimalist approach and 160g/day across four meals for those seeking the best results. Recommendations by Eric Helms, PhD go up to 0.8-1g/lb for building muscle, and up to 1.3g/lb while dieting to preserve muscle. For most purposes, 120g-160g per day is a very good place to start, with room to add more if you want. The maximum that research has shown to be beneficial for muscle
+growth
+is 0.82g/lb, but there’s no danger or waste in going above that (
+as long as you don’t eat
+only
+protein).
+If you’d like to read some more detailed articles about protein and research on it, below are some excellent ones. Don’t get too far into the weeds and start over-thinking it, though.
+Examine.com – How Much Protein Do You Need?
+(Read time: ~10 minutes)
+Examine.com – How much protein can I eat in one sitting?
+(Read time: ~5 minutes)
+Stronger by Science – Reflecting on Five Years Studying Protein (Eric Helms)
+(Read time: ~9 minutes)
+Stronger by Science – Perfecting Protein Intake in Athletes (Jorn Trommelen)
+(Read time: ~25 minutes)
+Carbohydrates and Fat
+Beyond your protein intake, the rest of your macros don’t matter nearly as much. For fat, a good minimum to shoot for is 0.3g/lb* to ensure that you’re getting enough essential fatty acids. After this, you can just fill in your calorie budget with however many carbs or fats works best for you. Some additional things you may want to factor in:
+Eating lots of high fat foods will use up much of your calorie budget and can make it hard to get enough carbs and protein to support an exercise regimen.
+Carbs, after calories, are the most important dietary factor* in being able to recover from training, and the harder you train, the more carbs you should have to ensure proper recovery.
+*Sourced from “
+Recovering from Training
+” by Dr. James Hoffman, Dr. Mike Israetel, and Dr. Melissa Davis of Renaissance Periodization
+So What’s the “Best” Diet?
+There isn’t one.
+The truth is in the old adage – “Many roads lead to Rome”. The label you put on your diet is much less important than finding out what is easiest for you to implement and least stressful for you to stick to over the long haul. Experiment with some of the common strategies, or even something as simple as eating less or more of what you’re already eating, and see what works for you.
+Some short recommended reading on this is
+All Diets Work: The Importance of Calories
+by Lyle McDonald (Read time: ~7 minutes)
+Related Resources
+r/Fitness Monthly Recipe Megathreads
+A monthly megathread on r/Fitness where users share their favorite recipes.
+r/weightroom Foodie Fridays
+A weekly thread on r/weightroom where users share recipes, diet plans, favorite foods, and ask questions.
+r/MealPrepSunday
+A subreddit dedicated to “meal prep” – preparing many days worth of food in one big chunk in advance to save time.
+r/fitmeals
+A subreddit for sharing healthy meals.
+r/loseit
+A subreddit focused on those who are trying to lose weight.
+r/gainit
+A subreddit focused on those who are trying to gain weight.

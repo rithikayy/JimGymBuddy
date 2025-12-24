@@ -1,0 +1,92 @@
+Title: GZCLP
+URL: https://thefitness.wiki/routines/gzclp/
+
+GZCLP
+Table of Contents
+Toggle
+The Tiers
+The Program
+Sets, Reps, and Rest
+Progression
+GZCLP is a beginner level linear progression program created by powerlifter and coach Cody LeFever, derived from his
+GZCL Method
+(see
+r/gzcl
+for more) and consisting of three lifts each workout day. It offers a significantly more balanced exercise selection and effective progression protocol than most other beginner linear progression programs, especially with regards to squat vs deadlift balance, and back work.
+This page is intended as a companion to the below resources, to help simplify understanding of the core of the program. It is strongly recommended to read over the original post and infographic if you want to understand it better.
+Original post by u/gzcl / Cody LeFever
+Infographic
+Spreadsheets
+The Tiers
+Tier 1
+– The primary barbell compound lift for the day.
+Tier 2
+– A secondary compound lift for the day, done with less weight for more reps.
+Tier 3
+– Tertiary accessory exercises.
+The Program
+Day 1
+Day 2
+Day 3
+Day 4
+Tier 1
+Squat
+Overhead Press
+Bench Press
+Deadlift
+Tier 2
+Bench Press
+Deadlift
+Squat
+Overhead Press
+Tier 3
+Lat Pulldown
+Dumbbell Row
+Lat Pulldown
+Dumbbell Row
+Leave at least one rest day between each workout.
+This was laid out originally as a three day routine to be done on Mon/Wed/Fri. Since there are four different workouts, this means that you will not always be doing the same workout on the same day of the week. For example:
+Monday
+: Day 1
+Wednesday
+: Day 2
+Friday
+: Day 3
+Monday
+: Day 4
+Wednesday
+: Day 1
+Friday
+: Day 2
+And so on
+Sets, Reps, and Rest
+All notation is in Sets x Reps. A “+” indicates that the last set is AMRAP – As Many Reps As Possible. Note that this is should not be to true muscular failure, and you should leave 1-2 reps “in the tank” on these sets. A good way to gauge this is when the bar speed slows significantly compared to your previous reps.
+Tier 1
+Tier 2
+Tier 3
+Stage 1
+5×3+
+3×10
+3×15+
+Stage 2
+6×2+
+3×8
+n/a
+Stage 3
+10×1+
+3×6
+n/a
+Rest
+3-5 min
+2-3 min
+1-1.5 min
+Begin at the Stage 1 sets and reps for the lift, based on what Tier it is. If you fail to complete the total number of reps, move to the next Stage. When you fail at the last Stage, you’ll use the guidelines below to select a new weight and return to Stage 1.
+Tier 1:
+Test for a new 5 rep max. Use 85% of this weight to restart the cycle.
+Tier 2:
+Find the last weight you lifted using Stage 1, add 15-20 lbs to this to restart the cycle.
+Progression
+Tier 1/2:
+After each workout, add 5 lbs to the Bench Press and Overhead Press and 10 lbs to the Squat and Deadlift.
+Tier 3:
+Add weight when you can do 25 reps on your AMRAP set.

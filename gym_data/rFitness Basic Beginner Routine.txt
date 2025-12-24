@@ -1,0 +1,111 @@
+Title: rFitness Basic Beginner Routine
+URL: https://thefitness.wiki/routines/r-fitness-basic-beginner-routine/
+
+r/Fitness Basic Beginner Routine
+Table of Contents
+Toggle
+Who is this for?
+What is this for?
+How long should I run this for?
+Barbell Strength Training
+Progression
+Cardio and Conditioning
+Frequently Asked Questions
+How do I find my starting weights for each lift?
+What should I do if I can’t do chinups?
+How do I add 2.5 lbs to the upper body lifts?
+I’m not tired after lifting / I finish the lifting very quickly. Am I doing something wrong?
+I want to do more work than this. What should I do?
+I don’t know how to do any of these lifts. How can I learn them?
+In addition to this page, you can find the answers to some common questions in the
+Routine Campfire
+thread for it.
+Who is this for?
+This routine is for anyone who is a complete beginner to strength training using barbells.  If you already have experience and are comfortable with the staple barbell lifts (Bench Press, Overhead Press, Row, Squat, Deadlift), a more comprehensive routine is better for you.
+What is this for?
+This routine is best framed as a “training wheels” routine. The primary goal is to be a simple, easy to follow routine that will help beginners get into the gym, start training with the standard barbell lifts, and build a habit of going to the gym consistently. Consistency over time is the biggest point of failure in making progress, and the aim is to lower the barrier as far as possible to starting and staying consistent.
+A secondary goal is to start from Day 1 thinking about progress in more than one dimension – not just increasing weight, but in increasing reps at a certain weight. Focusing entirely on weight increases is a common deficiency in other, similar beginner’s routines that often ends up causing mindset problems in the long term.
+Finally, the goal is to be a simple training routine that is easy to start building a workout habit with. It is very common for beginners to bite off more they can chew in terms of number of days, number of movements to learn, or training volume. A three day routine with only five new movements that is very short is a lot more digestible.
+How long should I run this for?
+Follow this routine for a maximum of three months. After that point, your long term progress is better served by moving on to a more comprehensive routine that has more training volume and greater variety of movements, rep ranges, and intensity.
+It’s generally recommended to use either
+GZCLP
+or
+5/3/1 for Beginners
+as a good next step, but just about anything on the
+Recommended Routines
+page is perfectly fine too.
+Barbell Strength Training
+The program itself is very straightforward. You alternate between
+Workout A
+and
+Workout B
+, leaving one full day of rest between each day of lifting. This is typically three days a week (ie, Mon / Wed / Fri) because it’s easier to schedule, but can also be done A->Rest->B->Rest->Repeat if your schedule allows.
+Workout A
+3×5+ Barbell Rows
+3×5+ Bench Press
+3×5+ Squats
+Workout B
+3×5+ Chinups (or equivalent)
+3×5+ Overhead Press
+3×5+ Deadlifts
+Do all sets of one lift, then move on to the next.
+The notation here is
+Sets x Reps
+– three sets of five reps. The “+” at the end denotes that the last set is AMRAP – As Many Reps As Possible.
+The last set should not be to absolute muscular failure – try to get a feel for when you have 1-2 reps left in you. A good way to gauge when to stop is when your form breaks down or the speed of the bar slows significantly compared to the previous reps. You want these to be crisp, quality reps. Taking time to learn what real failure feels like and how to find this stopping point is one of the purposes of this routine.
+Rest 2-3 minutes between each set, depending on how you feel. You can rest up to 5 minutes between exercises if you need to.
+Progression
+Add 2.5 lbs to the upper body lifts (Bench, Overhead Press, Row, Chinup) each day you do the lift.
+Add 5 lbs to the lower body lifts (Squat, Deadlift) each day you do the lift.
+This weight is added to the
+total
+weight of the lift – not to each side.
+If you do more than 10 reps on your AMRAP set, add 5lbs/10lbs instead.
+If you fail to complete at least 15 total reps for a lift, deload by subtracting 10% from the weight the next time you do that lift. Use this time to set new rep records at past weights.
+Cardio and Conditioning
+In addition to the barbell strength training, you will also do a minimum of two days a week of cardio and conditioning work.
+One day of lower intensity. Your options are things like brisk walks, jogging, light cycling, elliptical machines, and so on. This should be something you can sustain for 15-30 minutes at a time without trouble.
+One day of higher intensity. Your options are things like High Intensity Interval Training (HIIT), Tabata, circuits, or most things you find on our
+Cardio and Conditioning
+page. This should be something that is relatively hard that you definitely can’t do for very long. 10-15 minutes is usually plenty if done right.
+This part of the routine is very, very flexible so don’t overthink your choices here. The specifics of what you do are much less important than simply doing the work.
+You can do your cardio and conditioning work on any day of the week. If you do it on the same day you are lifting weights, it’s best to do it
+after
+the lifting – otherwise it will likely tire you out some and your performance in the lifting may suffer.
+Frequently Asked Questions
+How do I find my starting weights for each lift?
+Start with an empty barbell and do a set of five reps. If this is completed easily with good form, add 10-20 lbs to the bar for the next set. If bar speed does not slow and form does not break down, add another 10-20 lbs to the bar and perform another set. Continue this process adding weight as appropriate until either form falters or the bar speed slows significantly more than the preceding sets, whichever comes first. This is now your starting weight. Rests and perform the rest of your work sets at this weight.  Don’t try to kill it on this initial test, be conservative.  The intent here is not to find your max, but to find a good starting point that allows for quality work sets and ample room for improvement.
+What should I do if I can’t do chinups?
+Not to worry – there are plenty of good options for this situation
+Do negatives
+Use a lat pulldown machine
+Follow a chinup / pullup progression method from
+r/bodyweightfitness
+Use resistance bands or an assisted chinup machine
+How do I add 2.5 lbs to the upper body lifts?
+If your gym doesn’t have micro plates (1.25 lbs), you have several options:
+Buy your own and bring them with you. They are generally cheap on CraigsList or used sports equipment stores.
+Add a (more common) 2.5 lb plate to the center of the bar using magnets or bands. Make sure it is secure to prevent injury.
+Move up in 5 lb increments instead. You may reach points where you need to deload more rapidly – this is fine.
+Add 5 lbs every
+other
+time you do that lift, keeping the weight the same for two workouts in a row and shooting for a higher AMRAP on the second workout.
+Add a fourth set, either by doing an extra set of five or a second AMRAP set.
+I’m not tired after lifting / I finish the lifting very quickly. Am I doing something wrong?
+Nope. Remember that this is a simple, bare-bones introductory routine that you are running for only a short period of time. It is not intended to kick your ass or be anywhere near the maximum volume you can handle. Your focus here is to learn how to perform the lifts with good form, safely, while getting a feel for exertion and your limits.
+I want to do more work than this. What should I do?
+You’ve got a few good options.
+Have a look over any of the
+many past threads
+discussing adding accessory work to Phrak’s GSLP for ideas.
+Take 20-30% of the weight off the bar and do 1-3 additional sets of 5-8 reps. This can double as extra work and extra practice getting your form right.
+Copy the assistance protocol from
+5/3/1 for Beginners
+and do one push, one pull, and one leg or core exercise each day. In this case, you would ideally stick primarily to isolation exercises.
+I don’t know how to do any of these lifts. How can I learn them?
+Head on over to our
+Learning and Improving Lifts
+page, where you will find an extensive collection of resources recommended by r/Fitness users. You should also take advantage of posting form checks in the
+Daily Threads
+as you are learning.

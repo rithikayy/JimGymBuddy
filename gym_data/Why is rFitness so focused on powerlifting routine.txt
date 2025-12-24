@@ -1,0 +1,52 @@
+Title: Why is rFitness so focused on powerlifting routine
+URL: https://thefitness.wiki/faq/why-is-r-fitness-so-focused-on-powerlifting-routines/
+
+Why is r/Fitness so focused on “powerlifting” routines?
+In short, it’s not.
+But to answer this question, a matter of semantics has to be addressed first.
+On the internet, it has become commonplace to use the word “
+powerlifting
+” interchangeably with “
+strength training
+“, and the word “
+bodybuilding
+” with “
+gaining muscle to look good
+“. This is usually done in a way that suggests training for strength and training to build muscle are very different methodologies, usually based on an outdated concept of
+special rep ranges
+for each. This is not very accurate.
+r/Fitness MVP and strongman MythicalStrength
+has written a great comment
+discussing what the terms “powerlifting” and “bodybuilding” really mean with their original meaning:
+A powerlifting routine is an intensification block resulting in a peaking cycle that focuses on moving maximal poundages in 1 rep for 3 different lifts (squat, bench and deadlift). These training cycles utilize increasing intensity (percentage of 1rm) while reducing volume to compensate for increased intensity, which results in improving the skill of the lifter in moving maximal poundages.
+A bodybuilding program is a program that emphasizes building the specific physique that will result in winning a bodybuilding competition. These means certain areas are emphasized for hypertrophy while others aren’t. Strongly hypertrophied obliques, for example, would not be good for a bodybuilder. Along with creating size, the ILLUSION of size must be created as well, which is a product of creating a more dramatic physique by emphasizing certain parts over others. This is why a quad sweep is valued, along with wide/broad delts.
+[…] Getting bigger and stronger are not exclusive to bodybuilding or powerlifting but are, in fact, the results of any decent training program.
+In addition, it is a common misconception that resistance training routines that put the squat, bench press, and deadlift front and center are “powerlifting” programs, when this is rarely actually the case. These lifts are just really common in the best resistance training programs for the same reason that hammers, saws, and screwdrivers are common in carpentry – they’re some of the best tools available for the job of building strength and muscle.
+Understanding this leads us to a more accurate version of the question:
+Why is r/Fitness so focused on
+strength training
+routines?
+The short answer is – It’s kinda not, but sort of is too.
+First, a little bit more of semantics – It would be more accurate to say the the focus is on
+resistance
+training routines. The routines recommended in the Wiki are geared for developing both strength
+and
+muscle – not simply one or the other. And it’s worth saying that even if you don’t want to compete in one of the many strength sports or get big/shredded/jacked/ripped/yoked, there are
+a lot of health benefits associated with resistance training
+and everybody should probably do at least a little bit of it.
+However, it is definitely accurate that there is a heavier focus on strength and muscle building routines than most other things. The reason for that is simple – It’s just what the majority of people come to r/Fitness to learn about. The
+Strength Training / Muscle Building routines
+and
+Muscle Building 101
+pages make up almost
+30%
+of the traffic this Wiki receives – no other sections come anywhere close. By contrast, the
+Cardio and Conditioning routines
+page makes up only
+3%
+of the traffic.
+This is most likely for two reasons:
+Other fitness pursuits have specific communities discussing them, and the people who want to discuss them generally go there instead of r/Fitness, which is more of a catch-all. A person who wants advice about cardio is more likely to have a specific type of cardio in mind and go looking for that – such as r/running, r/cycling, r/swimming – than to r/Fitness. A person who wants advice about a sport or martial art is more likely to go looking for a subreddit about that sport or martial art. Other subreddits focused on lifting weights and strength training aren’t as large, prominent, and easy to find.
+Most people have at least
+some
+exposure to other aspects of fitness in their youth and they simply aren’t as unfamiliar. Nearly everybody has run, ridden a bike, jumped rope, swam, or even just casually played some kind of sport while growing up because of Physical Education classes and recess. But training for strength and muscle gain aren’t usually part of the experience of growing up and going to school unless you’re on a sports team, often due to outdated myths and fears about it being dangerous for developing teenagers.

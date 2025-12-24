@@ -1,0 +1,51 @@
+Title: Strength Training Using the GZCL Method from Novic
+URL: https://thefitness.wiki/reddit-archive/gzcl-method-novice-to-elite/
+
+Strength Training: Using the GZCL Method from Novice to Elite. Free manual + free programs download.
+Original Post by u/gzcl
+–
+Hey
+/r/Fitness
+!!!
+Yesterday I published
+GZCL Method: Applications & Adaptations
+and since it has been getting fairly good reviews in
+/r/powerlifting
+and
+/r/weightroom
+I figured many of you here would like to see it, potentially gleaning at least one helpful training tip. It covers a lot about strength training and is a
+very long read
+(much like this post itself!)
+Since most of the users in this subreddit are novice to intermediate lifters I figured I’d just copy/paste the most relevant section:
+GZCLP
+(GZCL Linear Progression for new lifters)
+This infographic will improve understanding of terms and concepts in regards to the following paragraphs.
+Novice lifters and coaches are familiar with traditional, popular models of linear progression programs. Starting Strength, Greyskull, etc. are all the top performers in this class of programming for a person new to strength training. As an option, these lifters can use GZCLP to transfer into a progression scheme with a GZCL format that eventually morphs into their own personalized GZCL program.
+GZCLP utilizes the below T1 progression scheme:
+Weight x Reps x Sets
+Take the last weight from previous LP program (or start new with GZCLP!) and perform these workouts:
+Workout A
+T1: Squat x Bar (or Last LP Weight) x 3 x 5+ T2: Bench x Bar (or Last LP Weight) x 10 x 3 T3: Lat Pull Down x Z-Weight x 15 x 3+
+Workout B
+T1: OHP x Bar (or Last LP Weight) x 3 x 5+ T2: Deadlift x Bar (or Last LP Weight) x 10 x 3 T3: DB Row x Z-Weight x 15 x 3+
+Progression Guidance
+When workouts A & B are repeated the T1 and T2 flip flop, meaning Workout A the second time around would have T1: Bench and T2: Squat. Each workout alternates between a T1 squat or deadlift and a T1 bench press or OHP. Squat and deadlift T1 should not follow each other, likewise for bench and OHP. It is suggested that a day off minimum be taken between workouts, which makes this a 3x per week schedule, like most LP programs out there.
+This does have the negative aspect of slower progression (at least when reading, but in practice definitely not) than something like Starting Strength where all movements are performed each movement and weight is added each workout. A second negative aspect is the lower lift frequency since the lifter is not performing the squat, bench, and deadlift each workout. However, the benefit of GZCLP over other linear progression programs is the added volume per workout for each lift through AMRAP sets on the T1 lifts for the day, as well as the 10 rep sets when that movement becomes a T2 a few days later. The effort required to continuously push the T1 and T3 progressions via AMRAPS is what sets GZCLP apart from other linear progressions; for this reason lifters should push their AMRAPS every workout to 1-2 reps until failure. (As always recommended with AMRAPS and MRS.)
+Many common LP programs follow an extremely low volume approach with moderate frequency. This is disagreeable because new lifters need practice, and that requires reps. It is important to understand that when coming from no base of fitness or strength training history this higher volume and effort may require a significant deload of bar weight (“intensity” for those new to strength training) and it is recommended that recovery means be of the highest importance when making a transition to lifting, in particular when choosing to use GZCLP as your ticket aboard the Gains Train.
+When needing more recovery while on GZCLP more reps can be left in the tank, thus lowering the overall effort of that workout. This then reduces training stress and lessens the recovery debt of that workout.
+GZCLP T1 Progression
+Start with three reps for five sets, last set AMRAP (3×5+) adding weight workout to workout and when base volume of 15 is missed (because the lifter did not think they could do 1-2 more, not because of actual failure) then the lifter would use that same weight they missed at and continue progression by dropping to 2 reps per set, for 6 sets, last set AMRAP (2×6+). This would then start progression again, adding weight workout to workout until they failure to achieve base volume of 12. Once failure with 2×6+ occurs then the reps would drop a third step to one rep per set for 10 sets, last set AMRAP. (1×10+) Continue to add weight workout to workout with the ten singles. When failure to reach base volume of 10 occurs rest for 2-3 days and test for a 5RM. Use 85% of this new 5RM to start the next cycle of 3×5+ and progress in similar fashion to the previous cycle. Each successive repeat through 3×5+ will be shorter due to the lifter now being stronger.
+It is recommended that no more than 5/2.5 to 10/4.5 (LB/KG) be added workout to workout for novices and early intermediates. Do not push AMRAP sets beyond 10 reps even if there’s enough gas in the tank to do so.
+Do not add weight set to set for any of the workouts. These are to be done at a fixed weight across all sets. Weight is only added when repeating the workout with that movement as a T1.
+GZCLP T2 Progression
+Progress ten reps for three sets (10×3) adding weight workout to workout until the failure to reach base volume of 30 reps. When failure to reach base volume of 30 reps occurs drop to eight reps for three sets (8×3) and continue to add weight, this too will eventually end with failure to reach base volume of 24. Once 8×3 ceases to improve drop to six reps for three sets (6×3). Once failure to reach base volume of 18 restart the process for two to three cycles more, each cycle resetting at 10×3, but at a slightly heavier weight than previously used- no more than 20/9. (LB/KG)
+Continue attempting to progress a core T1 lift (Squat, Bench, Deadlift, or OHP) in the T2 until comfortable moving into a more traditional GZCL method structure using an optional variety in the T2; incline from OHP as an example. This will help introduce variety, a staple of the GZCL Method, to newer lifters.
+GZCLP T3 Progression
+Progress by using the last set AMRAP. Once the weight can be lifted for 25 reps on that last set an in increase in weight should occur. A back isolation movement such as a row or lat pull down (or pull up if possible) should be used as the initial T3 movements for Workouts A &B. Be modest in this progression because T3 movements will have lower thresholds of weight increases. Eventually these T3 movements will build intensity and volume to match requirements needed for a potential T2b movement in a full scale GZCL program, if necessary or desired. (Since back isolations can be T2 movements as explained earlier.)
+Once GZCLP recovery is stabilized and progression through two to three cycles is complete adding volume from the bottom up in order to more completely transfer to a truer GZCL approach is recommended. This approach is detailed below.
+Transferring to and Going from Novice to Intermediate on GZCL When first considering switching to a GZCL Method style of training understand that the workload is typically more than what’s expected. This can be mitigated by accepting that going full steam into a new training program is likely to result in disaster and a better decision is to get the feet wet first. Start with a single movement per tier, per workout, and keep volume at base levels for each tier. (T1: 10/ T2: 20/ T3: 30) By doing so the initial stress of switching to a GZCL Method approach can be recoverable. From there it is suggested that as an individual’s adaptation occurs the volume then increase from the T3 up.
+Start increasing the volume of the T3 by adding a second movement (T3b) for a single set of 8-10 reps. This can be done for just one day or multiple days. If that is manageable increase that T3b by one set again the next workout while also adding a few reps to the existing T2 movement. These additional T2 reps can be tacked onto existing sets or by adding a whole new set to that tier. By doing so the volume base increases from the bottom up, just as a pyramid should. Each time the new T3 movement is performed another set should be added until it has reached a base volume level of 30. Do not add more than three movements; stop adding reps when each movement has a base volume of 30.
+After three T3 movements with 30 total reps each has been added, without any recovery issues, push the T3a movement up to 50 reps total each workout it is performed. This will expose the novice and intermediate lifter to very high rep sets and could act as an initial exposure to different effort increasing training methods, rest-pause as an example. This approach will finalize effort and work capacity needed to make a sustainable switch to a second T2 movement if desired.
+Once achieved the lifter is essentially running a personalized model of GZCL built around their means and abilities. From there they have a solid understanding of how to adjust training variables up or down to achieve training goals. These variables are most commonly recognized as intensity, volume, and effort.
+Warning
+: If increasing volume from top to bottom were to occur the lifter would likely see an immediate positive impact from the added T1 volume, but they would quickly be adding too many reps (assuming it was done semi-intelligently with rep addition via singles to the T1) to the most intense tier and their work capacity could not maintain efforts, and recovery debt would require bankruptcy. Similarly, adding volume to each tier simultaneously results in like performance decline, just on a longer timeline. Building from the bottom up builds muscular endurance and work capacity, each of which are needed to successfully and sustainably progress all tiers.
