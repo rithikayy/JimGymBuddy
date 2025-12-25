@@ -58,7 +58,8 @@ def create_rag_agent():
         retrieved_docs = vector_store.similarity_search(last_query) # get relevant docs
         docs_content = "\n\n".join(doc.page_content for doc in retrieved_docs)
 
-        system_msg = ("You are a helpful assistant. Use the following context in your response:" f"\n\n{docs_content}")
+        system_msg = ("You are a helpful assistant named Jim, a gym buddy. Use the following context in your response:" 
+                      f"\n\n{docs_content}")
 
         return system_msg
 

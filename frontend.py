@@ -1,19 +1,18 @@
 import streamlit as st
 from app import create_rag_agent
 
-st.title("🐀 Chat with a Gym Rat")
+st.title("Chat with Jim, your Gym Buddy")
 
 if 'messages' not in st.session_state:
     st.session_state.messages = []
 
 if 'agent' not in st.session_state:
-    with st.spinner("Loading gym knowledge... 💪"):
-        st.session_state.agent = create_rag_agent()
+    st.session_state.agent = create_rag_agent()
 
 for msg in st.session_state.messages:
     st.chat_message(msg['role']).markdown(msg['content'])
 
-prompt = st.chat_input('Waiting for your question...🐀🐀')
+prompt = st.chat_input('How is it going?')
 
 if prompt:
     st.chat_message('user').markdown(prompt)
