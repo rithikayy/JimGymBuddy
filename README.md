@@ -1,4 +1,4 @@
-# Jim, Your Gym Buddy 💪 
+# Meet Jim, Your Gym Buddy 💪 
 Say hello to Jim, your personal fitness companion! Jim will help you achieve your fitness dreams, whether you need help setting your routine, or sticking with a consistent diet. 
 
 ## What Jim Can Help You With
