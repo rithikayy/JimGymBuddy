@@ -40,7 +40,6 @@ def create_rag_agent():
     # notes for you: TextSplitter is an abstract class
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200, add_start_index=True,)
     all_splits = text_splitter.split_documents(docs)
-    print(f"Split blog post into {len(all_splits)} sub-documents.")
 
     # step 3: embeding and storing all these sub docs
     doc_ids = vector_store.add_documents(documents=all_splits)
@@ -58,8 +57,10 @@ def create_rag_agent():
         retrieved_docs = vector_store.similarity_search(last_query) # get relevant docs
         docs_content = "\n\n".join(doc.page_content for doc in retrieved_docs)
 
-        system_msg = ("You are a helpful assistant named Jim, a gym buddy. Use the following context in your response:" 
-                      f"\n\n{docs_content}")
+        system_msg = ("You are a helpful assistant named Jim, a gym buddy. Answer questions based ONLY on the context "
+        "provided. If the context says something specific, represent it accurately. Do not add information from your "
+        "general knowledge. If the answer isn't in the context, say so.\n\n" 
+                      f"Context:\n{docs_content}")
 
         return system_msg
 
