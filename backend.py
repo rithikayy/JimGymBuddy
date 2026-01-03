@@ -27,13 +27,20 @@ def create_rag_agent():
     # step 1: loading the files from the folder
 
     # notes for you: DocumentLoader is an abstract class, DirecLoader and TextLoader is implementation
-    loader = DirectoryLoader(
+    loader1 = DirectoryLoader(
         'gym_data/',
         glob="**/*.txt",
         loader_cls=TextLoader
     ) # to do it per folder, use TextLoader !
 
-    docs = loader.load()
+    loader2 = DirectoryLoader(
+        'exercise_data/',
+        glob="**/*.txt",
+        loader_cls=TextLoader
+    )
+
+
+    docs = loader1.load() + loader2.load()
 
     # step 2: splitting docs
 
